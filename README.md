@@ -1,4 +1,4 @@
-# pm2discordbotmanager.js
+# PM2-Discord-Bot-Manager
 Discord bot managing script for people locally running their discord bot using pm2 and want a easy interface for reading logs and quickly controlling the bot.
 
 <sub>This is not limited to discord bot use and will work for any pm2 instance, the main use is for discord bot's but you can use it for anything running with pm2.</sub>
