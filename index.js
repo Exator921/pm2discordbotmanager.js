@@ -117,6 +117,14 @@ app.get("/", (req, res) => {
                     if(terminal.childNodes.length > 200) terminal.removeChild(terminal.firstChild);
                 });
             </script>
+            
+            <br/>
+            <br/>
+            <br/>
+            <br/>
+            <br/>
+            
+            <footer> &#169; Exator911 2026 </footer>
         </body>
     </html>
   `);
