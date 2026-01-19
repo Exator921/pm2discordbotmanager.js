@@ -36,4 +36,5 @@ http://1.1.1.1:4000
 >It is highly recommended to use a secondary/local IP service such as Tailscale if you want to access this site on other devices and off the same Wi-Fi as the host device. If your only looking to use the site on the device running the bot and script this can be ignored but it is recommened and will keep things more secure. I use it in tandom with Tailscale making the site only able to be accessed by devices with Tailscale installed and signed into my Tailscale account. I can see and manage the bot from anywhere using my Tailscale IP addresses with this script.
 
 ## Example Of How The Page Will Look
-<img width="1440" height="876" alt="Example of how the page will look image" src="https://github.com/user-attachments/assets/a7612751-e2dd-40cc-bd7c-f4aff13e1949" />
+<img width="1440" height="877" alt="Screen Shot 2026-01-18 at 8 14 58 PM" src="https://github.com/user-attachments/assets/6413b28f-b139-4b34-858f-e70fb4389267" />
+
