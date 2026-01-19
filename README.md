@@ -11,7 +11,7 @@ npm install express socket.io pm2
 > [!IMPORTANT]
 > Socket.io may need admin privileges to install. If your on Mac or Linux run the install for all (or just socket.io) under sudo, if on Windows run your terminal as admin.
 
-Once these dependices are on your system install the index.js script to your machine from this repo, there will be a few things in the script you may wanna edit and there are comments to let you know what to change and other things you'll wanna know for usage.
+Once these dependices are on your system install the `index.js` script and `package.json` file to your machine from this repo, there will be a few things in the script you may wanna edit and there are comments to let you know what to change and other things you'll wanna know for usage. The `index.js` and `package.json` must be in the SAME directory.
 
 >[!NOTE]
 >There is a note in there about a favicon (tab icon), setting this up is optional. I added it to the script cause I wanted it on my tab but if you don't want it and this section gives you errors feel free to remove the section. If you do want it the favicon file MUST be named `favicon.png` for it to work and render the image.
